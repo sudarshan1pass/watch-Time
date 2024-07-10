@@ -1,5 +1,5 @@
 const time = document.getElementById("time");
-const set = document.getElementById("set");
+
 
 
     setInterval(()=>{
